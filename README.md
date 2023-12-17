@@ -39,5 +39,3 @@ This command will start the development server, and you can view your React app 
 
 This command will start your Node.js application, and you should be able to access it at the specified address or port http://localhost:5000
 
-
-
